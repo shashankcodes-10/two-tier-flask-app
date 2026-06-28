@@ -1,0 +1,5 @@
+mysql-data/
+dependency-check-data/
+trivy-fs-report.html
+trivy-image-report.html
+dependency-check-report.xml
